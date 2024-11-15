@@ -39,5 +39,7 @@
 - Masuk pada mode monitoring penyerangan 
 - Tunggu `service available` yang berawal dari "YES" menjadi "NO"
 - sebelum penyerangan
+  ![image](image/image1.png)
 - sesudah penyerangan
+  ![image](image/image2.png)
 
