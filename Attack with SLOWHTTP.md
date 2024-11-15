@@ -38,5 +38,6 @@
     -l 9999 = bata waktu penargetan
 - Masuk pada mode monitoring penyerangan 
 - Tunggu `service available` yang berawal dari "YES" menjadi "NO"
-- kemudian lakukan monitoring traffik adapter nMasuetwork menggunakan wireshark 
+- sebelum penyerangan
+- sesudah penyerangan
 
