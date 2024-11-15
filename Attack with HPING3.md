@@ -11,7 +11,7 @@
 - Konfigurasi Adapter Network pada VM anda dengan dua adapter yaitu NAT dan Host Only
 - Konfigurasi Network menjadi dhcp pada adapter NAT/enp0s3 dan Static pada adapter Host Only/enp0s8,
   Contoh :
-    ![image](image/image1.png)
+    ![image/image1.png](https://github.com/yogaputrarm/cacti-kons1/blob/main/image/image1.png)
 - lakukan update repository terlebih dahulu
 - lakukan instalasi hping3 dan NMAP, dengan perintah:
   ```
